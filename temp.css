@@ -1,0 +1,584 @@
+@charset "utf-8";
+/* CSS Document */
+
+#myDiv { background-color: red}  
+.myClass {background-color: blue !important} 
+p {
+	background-color : #0C6
+}
+
+.logosize{
+	
+	width: 26%; !important;
+	height:auto !important;
+	font-weight:bold !important;
+	font-size:200% !important;
+	padding-left:1% !important;
+	font-family: david;
+	}
+	.lo{
+		background-color:#0C6
+	height:300px !important;
+	
+	}
+	.mymargin1{margin-top:20px !important;
+width:90%!important;
+height:auto!important;
+float:left !important;
+margin-right:4%;
+margin-left:5%;
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Set a specific height */
+     
+
+    /* Create the parallax scrolling effect */
+}
+
+	.high{
+		height:450px !important;
+		margin-bottom:50px !important;
+	}
+	.cad{
+		width:100% !important;
+		
+		
+	}
+	.cads{
+		width:40% !important;
+		float:left !important;
+		
+		
+	}
+	.dad{
+		font-size:150% !important;
+	
+		
+		
+	}
+	
+	.BB{
+		text-align:center !important;
+		font-weight:bold !important;
+		font-size:100% !important;
+		color:#c2185b !important;
+		
+	}
+	.jb{
+		background-color:#999 !important;
+		
+	}
+	.lol{
+		color:#000 !important;
+		
+	}
+	.MM1{
+		width:33% !important;
+		
+	}
+	.ww{
+		color:#880e4f !important;
+		
+	}
+	.wp{
+		color:#424242 !important;
+		
+	}
+	.hb{
+		background-color:#fce4ec  !important;
+		
+	}
+	.hk{
+		background-color:#ec407a  !important;
+		
+	}
+	.pink{
+		color:#424242  !important;
+		background-color:none !important;
+		
+	}
+	.pink1{
+		color:#424242  !important;
+		background-color: #FFF !important;
+		
+	}
+	.jd{
+		background-color:#F33 !important;
+		color:#FFF !important;
+		
+	}
+	.col{
+		color:white !important;
+		text-align:center !important;
+		font-weight:bold !important;
+		
+		
+	}
+	.je{
+		background-color:#09C !important;
+		color:#FFF !important;
+		
+	}
+	.ee{
+		text-align:center !important;
+		
+	}
+	.eF{
+		background-color:#933 !important;
+		
+	}
+	.jc{
+		height:200px !important;
+		width:200px !important;
+		margin-left:5% !important;
+		
+	}
+	
+	.fan{
+		height:auto !important;
+		width:100%!important;
+		font-size:100% !important;
+	}
+	.fan3{
+		font-family:"Monotype Corsiva" !important;
+		font-weight:bold !important;
+		color:#c2185b !important;
+	}
+	.marginl{
+		margin-left:3% !important;
+	}
+	.lil{
+		width:45% !important;
+	}
+	.lilO{
+		width:95% !important;
+	}
+	.fanBLAK{
+		font-family:"david" !important;
+		font-weight:bold !important;
+		color:green !important;
+		font-size:36px !important;
+		text-align:center !important;
+	}
+	.fanpink{
+		font-family:"Monotype Corsiva" !important;
+		font-weight:bold !important;
+		color:#c2185b  !important;
+		font-size:36px !important;
+		text-align:center !important;
+	}
+	.fan1{
+		height:auto !important;
+		width:80%!important;
+		font-size:120% !important;
+		background-color:#FFF !important;
+		margin-left:9% !important;
+		margin-right:3% !important;
+		color:#000 !important;
+		
+	}
+	.gre{
+		color:green !important;
+	}
+	.nta{
+		font-size:110% !important;
+	font-family: david;
+	line-height:30px !important;
+	color:#3cb371;
+	background-color:#FFF !important;	
+	height:auto !important;
+	text-align: center !important;
+	}
+	
+	.nta1{
+		font-size:110% !important;
+	font-family: david;
+	line-height:30px !important;
+	color:#880e4f !important;
+	background-color:#FFF !important;	
+	height:auto !important;
+	text-align: center !important;
+	}
+	.fom{
+		width:45%;
+		height:auto;
+		color: #066 !important;
+		  box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+		  margin-top:2% !important;
+		  margin-right:2% !important;
+		  
+		}
+		.abt{
+		width:95% !important;
+		height:auto !important;
+		  box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+		  margin-top:2% !important;
+		  font-family: David !important;
+		  text-align:justify;
+		  color: #000;
+		  font-size:110% !important;
+		  margin-left:2% !important;
+		  line-height:25px !important;
+		  background-color:#FFF !important ;
+		  margin-top:2% !important;
+		  margin-bottom:5% !important;
+		  
+		}
+		.abtT{
+		width:100% !important;
+		height:auto !important;
+		  box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+		  margin-top:2% !important;
+		  font-family: David !important;
+		  text-align:justify;
+		  color: #000;
+		  font-size:110% !important;
+		  line-height:25px !important;
+		  background-color:#FFF !important ;
+		  margin-top:2% !important;
+		  margin-bottom:5% !important;
+		  
+		}
+		.abthd{
+		  font-family: David !important;
+		  color: #09c;
+		  font-family:David;
+		  font-weight:bold !important;
+		  
+		}
+		.hos{
+			width:80% !important;
+			height:auto !important;
+			margin-left:7% !important;
+			box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+			margin-top:5% !important;
+			
+		}
+		.hos1{
+			width:97% !important;
+			margin-top:5% !important;
+			height:auto !important;
+			float:left !important;
+			font-size:120% !important;
+			font-family:David !important;
+			line-height:30px !important;
+			text-align:justify !important;
+			padding-right:2% !important;
+			color:#666;
+		}
+		{
+		  font-family: David !important;
+		  text-align:justify;
+		  color: #09c;
+		  
+		}
+		.fom1{
+		width:100% !important;
+		height:auto;
+		font-size:150%;
+		line-height:25px;
+		text-align:center !important;
+		font-weight:bold !important;
+		padding-top:2% !important;
+		color:#880e4f !important;
+		margin-bottom:2% !important;
+		font-family:david;
+		}
+		.sub{
+			margin-left:25% !important;
+			
+		}
+		.sub2{
+			margin-left:5% !important;
+		}
+		.sub1{
+			color:#09c !important;
+		}
+		{
+	
+	width: 30%; !important;
+	font-weight:bold !important;
+	font-size:190% !important;
+	padding-left:1% !important;
+	font-family: chiller;
+	}
+.mynav{ background-color:#33691e !important;}
+.mynav1{ background-color:#004d40 !important;}
+
+
+.myslid{ 
+background-image:url(images/GF.jpg) !important;
+}
+
+.mymargin{margin-top:20px !important;
+width:90%!important;
+height:auto!important;
+float:left !important;
+margin-left:4% !important;
+margin-right:5% !important;
+background-image: url("images/1788c64.jpg")!important;
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Set a specific height */
+     
+
+    /* Create the parallax scrolling effect */
+}
+
+.mysearch{
+	background-color:#fff !important;
+	margin-left:2%;
+
+	}
+	.myimg{
+	
+	width:20%;
+	height:200px !important;
+	float:left;
+	margin-right: 3%;
+	margin-left:2%;
+
+	}
+	
+	
+	.mfooter{
+		float:left;
+		width:100%;
+	}
+	.img{
+	
+	width:100% !important;
+	height:200px !important;
+	float:left;
+	margin-right: 2%;
+
+	}
+	.top{
+	width:100% !important;
+	height:auto !important;
+	float:left;
+	color:#09c;
+	padding-top:3%;
+	padding-bottom:3%;
+	text-align:center;
+	line-height:25px;
+	font-size:150%;
+	font-family:Castellar;
+	font-weight:bold !important;
+
+	}
+	.leftg{
+	
+	height:auto !important;
+	float:left;
+	color:#09c;
+	padding-top:1%;
+	padding-bottom:3%;
+	text-align:justify;
+	line-height:25px;
+	font-size:120%;
+	font-family:David;
+
+	}
+	.park{
+	
+	
+	height:200px !important;
+	background-image:url(images/pr.png);
+	margin-left:2%;
+	width:400px;
+
+	}
+	.slid{
+	
+	height:auto !important;
+	background-image:url(images/pr.png);
+	width:30% !important;
+	color:#FFF !important;
+	padding-top:5% !important;
+	font-size: 2.28rem !important;
+  line-height: 25px;
+  font-family:David;
+  padding-bottom:5% !important;
+  text-align:center;
+  margin-left:2% !important;
+  box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+  
+	
+
+	}
+	.slid:hover{
+	
+	
+
+	}
+	.sj{
+		cursor:pointer !important;
+	color:#FFF !important;
+	width:90% !important;
+	height:auto !important;
+	margin-left:5% !important;
+	margin-top:4% !important;
+	
+  
+	
+
+	}
+	.sub1{
+		text-align:center !important;
+
+	}
+	.sly{
+	
+	position: relative;
+	height:auto !important;
+	background-image:url(images/pr.png);
+	color:#FFF;
+	width:340px !important;
+	padding-top:5% !important;
+	font-size: 2.28rem !important;
+  line-height: 25px;
+  font-family:David;
+  padding-bottom:5% !important;
+  margin-right:2% !important;
+  margin-left:2% !important;
+  text-align:center;
+  margin-bottom:5%;
+  
+	
+
+	}
+	.mybg{
+		float:left;
+width:100%!important;
+height:auto !important;
+
+    /* Set a specific height */
+     
+
+    /* Create the parallax scrolling effect */
+   
+   
+	color:#fff;
+	padding-top:1%;
+	padding-bottom:3%;
+	text-align:justify;
+	line-height:25px;
+	font-size:120%;
+	font-family:David;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	}
+	.mytxt{
+	width:70%!important;
+	height:auto;
+	float:left;
+	/* Set a specific height */
+     
+
+    /* Create the parallax scrolling effect */
+   
+   
+	color:#fff;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding-top:2%;
+	padding-bottom:3%;
+	padding-left:5%;
+	padding-right:5%;
+	text-align:center;
+	line-height:30px;
+	font-size:110%;
+	font-family:David;
+	}
+	.mywel{
+		width:70% !important;
+		height:auto !important;
+	font-size:30px !important;
+	font-family:David !important;
+	font-weight:bold !important;
+	text-align:center !important;
+	line-height:30px !important;
+	color:#fff;
+	float:left;
+	padding-top:1% !important;
+	padding-bottom:1% !important;
+	margin-left:25% !important;
+	margin-top:1% !important;
+	
+	
+	}
+input[type=submit] {
+    width: 150px;
+    background-color:#424242  !important;
+    color: #fff;
+	font-size:100% !important;
+    padding: 14px 20px;
+    margin: 8px 0;
+	margin-left:1%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	}
+input[type=submit]:hover {
+	background-color:#000 !important;
+	color: #FFF;
+}
+.input-field.col.s12.sub a {
+	color: #06C;
+	font-style:italic !important;
+}
+.join {
+    width: 150px;
+    background-color:#09c !important;
+    color: #fff !important;
+	font-size:100% !important;
+    padding: 14px 20px;
+    margin: 8px 0;
+	margin-left:6% !important;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	}
+	.contain{
+		margin-left:none !important;
+		margin-right:none !important;
+		width:100% !important;
+		height:auto!important;
+		  
+		}
+		.contact{
+		margin-left:none !important;
+		margin-right:none !important;
+		width:50%!important;
+		height:auto !important;
+		  
+		}
+		.logosize2{
+	
+	width: 40%; !important;
+	font-weight:bold !important;
+	font-size:190% !important;
+	padding-left:1% !important;
+	font-family: DAVID;
+	color:#09C !important;
+	margin-top:3% !important;
+	}
+	.map{
+	
+	margin-left:none !important;
+		margin-right:none !important;
+		width:100% !important;
+		height:auto !important;; !important;
+	
+	}
+	.sub3{
+			color:#fff !important;
+			background-color: #CCC !important;
+		}
+		.mag{
+			margin-top:3% !important;
+		}
